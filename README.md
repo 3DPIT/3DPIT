@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### 자기계발을 위하 저장소 입니다.
 <!--
 **3DPIT/3DPIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
