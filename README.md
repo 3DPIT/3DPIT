@@ -3,7 +3,7 @@
 
 ## study 정리
 - [링크](https://github.com/3DPIT/study/tree/master/02.studyData)
-
+## GIT BLOG [click here](https://3dpit.github.io)
 <!--
 **3DPIT/3DPIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
