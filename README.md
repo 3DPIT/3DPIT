@@ -2,12 +2,14 @@
 
 ## Study 정리 레파지토리 부분
 - [링크](https://github.com/3DPIT/study/tree/master/02.studyData)
-## GIT BLOG 
+## GitHub Blog 
 - [click here](https://3dpit.github.io)
 - 이후 Study 관련 정리
+
+## Tistory Blog
+- [링크](https://3dpit.tistory.com/)
 <!--
 **3DPIT/3DPIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
