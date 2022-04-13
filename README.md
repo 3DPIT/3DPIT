@@ -9,6 +9,10 @@
 
 ## Tistory Blog
 - [링크](https://3dpit.tistory.com/)
+
+![3DPIT's github stats](https://github-readme-stats.vercel.app/api?username=3DPIT&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![3DPIT's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3DPIT&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+
+
 <!--
 **3DPIT/3DPIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
