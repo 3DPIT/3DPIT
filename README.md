@@ -1,9 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=StudySpace%203DPIT&fontSize=90)
 # 자기계발을 위한 저장소 입니다.
-
+- Docker, C++, C#, Java, Golang으로 개발
+- 모니터링운영 및 개발, 자원수집기 Beat & Exporter 개발
+- Gitlab Runner CI/CD & Hugo 연동과 테스트코드및 등을 공부와 개발중
+- ORM, TDD, BDD, DDD, DesignPattern, WebAssembly Studying
 ## Grafana Server
-[Exercise Link](http://kyeongmin.iptime.org:3000/d/7iZhYOPnk/exercise?orgId=1&from=1644765110519&to=1649949110519)
-[Algorithm Link](http://kyeongmin.iptime.org:3000/d/WDdGepy7k/algorithm?orgId=1&from=1640962800000&to=1672498799999)
+[Exercise Link](http://kyeongmin.iptime.org:3000/d/7iZhYOPnk/exercise?orgId=1&from=1644765110519&to=1649949110519)  
+[Algorithm Link](http://kyeongmin.iptime.org:3000/d/WDdGepy7k/algorithm?orgId=1&from=1640962800000&to=1672498799999)  
 ## Study 정리 레파지토리 부분
 - [링크](https://github.com/3DPIT/study/tree/master/02.studyData)
 ## GitHub Blog 
