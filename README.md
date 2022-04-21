@@ -14,12 +14,13 @@
 - 이후 Study 관련 정리
 
 ## Tistory Blog
-- [링크](https://3dpit.tistory.com/)
+- [링크](https://3dpit.tistory.com/)  
 
+## 알고리즘
+- [알고리즘 풀이](https://github.com/3DPIT/study/tree/master/02.studyData/10.Algorithm)  
 ![3DPIT's github stats](https://github-readme-stats.vercel.app/api?username=3DPIT&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![3DPIT's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3DPIT&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
  ## Baekjoon Online Judge
- 
  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ferrari0817)](https://solved.ac/ferrari0817)
 <!--
 **3DPIT/3DPIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
