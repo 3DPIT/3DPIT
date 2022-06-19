@@ -4,6 +4,8 @@
 - 모니터링운영 및 개발, 자원수집기 Beat & Exporter 개발
 - Gitlab Runner CI/CD & Hugo 연동과 테스트코드및 등을 공부와 개발중
 - ORM, TDD, BDD, DDD, DesignPattern, WebAssembly Studying
+- 모니터링 시스템 구축 및 PoC (grafana, superset, postgreSQL)
+  - grafana, superset 리소스 및 프로젝트 대시보드 구축
 ## Grafana Server
 [Exercise Link](http://kyeongmin.iptime.org:3000/d/7iZhYOPnk/exercise?orgId=1&from=1644765110519&to=1649949110519)  
 [Algorithm Link](http://kyeongmin.iptime.org:3000/d/WDdGepy7k/algorithm?orgId=1&from=1640962800000&to=1672498799999)  
