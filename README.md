@@ -8,7 +8,7 @@
   - grafana, superset 리소스 및 프로젝트 대시보드 구축
 ## Grafana Server
 [Exercise Link](http://kyeongmin.iptime.org:3000/d/7iZhYOPnk12/undong_daesibodeu)  
-[Exercise 2](http://kyeongmin.iptime.org:3000/d/7iZhYOPnk12/undong_daesibodeu?orgId=11)  
+[Exercise 2](http://kyeongmin.iptime.org:3000/d/7iZhYOPnk12/undong_daesibodeu)  
 [Algorithm Link](http://kyeongmin.iptime.org:3000/d/WDdGepy7k/algorithm?orgId=1&from=1640962800000&to=1672498799999)  
 ## Study 정리 레파지토리 부분
 - [링크](https://github.com/3DPIT/study/tree/master/02.studyData)
